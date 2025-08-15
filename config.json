@@ -86,4 +86,10 @@
       "name": "小猫咪资源"
     }
   }
+  "custom_category": [
+    {
+      "type": "movie",
+      "query": "经典"
+    }
+  ]
 }
