@@ -89,7 +89,18 @@
   "custom_category": [
     {
       "type": "movie",
-      "query": "经典"
+      "query": "经典",
+      "query": "华语",
+      "query": "欧美",
+      "query": "日本",
+      "query": "韩国",
+      "query": "动作",
+      "query": "喜剧",
+      "query": "爱情",
+      "query": "科幻",
+      "query": "悬疑",
+      "query": "恐怖",
+      "query": "治愈"
     }
   ]
 }
